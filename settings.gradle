@@ -1,0 +1,2 @@
+rootProject.name='AndroidEx'
+include ':app'
